@@ -1,0 +1,153 @@
+--MEMBER--
+Juicy Fruit
+111111110
+Health Way NE
+Salem
+OR
+97301
+0
+--MEMBER--
+Julio Rodriguez
+111111111
+New Address
+New City
+OR
+49249
+1
+--SERVICE--
+111111110
+111111111
+123456
+42900
+The customer was quite satisfied.
+Julio Rodriguez
+Healthy Wealthy And Wise
+Heaps of Chocolate
+10
+24
+2012
+11
+25
+38
+10
+25
+2012
+11
+23
+36
+--SERVICE--
+111111110
+111111111
+123454
+87600
+The customer was quite satisfied.
+Julio Rodriguez
+Healthy Wealthy And Wise
+Heaps of Chocolate
+10
+5
+2012
+11
+25
+38
+10
+6
+2012
+11
+23
+36
+--SERVICE--
+111111112
+111111111
+123455
+45300
+Service was sooooooo good.
+Julio Rodriguez
+Kaiser
+Fake Chocolate
+0
+26
+1946
+6
+50
+3
+0
+29
+1946
+10
+34
+26
+--SERVICE--
+111111111
+111111111
+123453
+33200
+Service was sooooooo good.
+Julio Rodriguez
+New Provider Name
+Real Chocolate
+0
+24
+1946
+6
+50
+3
+0
+28
+1946
+10
+34
+26
+--MEMBER--
+Wes Risenmay
+111111112
+Anonymous SE
+Salem
+OR
+97311
+1
+--MEMBER--
+Kenya Africo
+111111113
+Stop It Now NE
+Hillsboro
+OR
+97124
+0
+--MEMBER--
+Fei Xie
+111111117
+Somewhere In Portland
+Portland
+OR
+94456
+0
+--SERVICE--
+111111114
+111111117
+123456
+42900
+This service was ridiculously good.
+Fei Xie
+Sierra Club
+Heaps of Chocolate
+4
+23
+2003
+6
+53
+1
+4
+24
+2003
+0
+36
+43
+--MEMBER--
+Joe Shmo
+111111118
+2345 SW av
+Woodenville
+WA
+98345
+1

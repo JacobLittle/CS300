@@ -1,0 +1,245 @@
+--PROVIDER--
+Healthy Wealthy And Wise
+111111110
+Health Way NE
+Salem
+OR
+97301
+--SERVICE--
+111111110
+111111111
+123456
+42900
+The customer was quite satisfied.
+Julio Rodriguez
+Healthy Wealthy And Wise
+Heaps of Chocolate
+10
+24
+2012
+11
+25
+38
+10
+25
+2012
+11
+23
+36
+--SERVICE--
+111111110
+111111111
+123454
+87600
+The customer was quite satisfied.
+Julio Rodriguez
+Healthy Wealthy And Wise
+Heaps of Chocolate
+10
+5
+2012
+11
+25
+38
+10
+6
+2012
+11
+23
+36
+--PROVIDER--
+New Provider Name
+111111111
+No Addiction Way SE
+Salem
+OR
+97317
+--SERVICE--
+111111111
+111111111
+123453
+33200
+Service was sooooooo good.
+Julio Rodriguez
+New Provider Name
+Real Chocolate
+0
+24
+1946
+6
+50
+3
+0
+28
+1946
+10
+34
+26
+--PROVIDER--
+Kaiser
+111111112
+Anonymous SE
+Salem
+OR
+97311
+--SERVICE--
+111111112
+111111114
+123454
+87600
+The customer was quite satisfied.
+Jackie
+Kaiser
+Heaps of Chocolate
+10
+24
+2012
+11
+25
+38
+10
+25
+2012
+11
+23
+36
+--SERVICE--
+111111112
+111111114
+123456
+42900
+The customer was quite satisfied.
+Jackie
+Kaiser
+Heaps of Chocolate
+10
+23
+2012
+11
+25
+38
+10
+24
+2012
+11
+23
+36
+--SERVICE--
+111111112
+111111111
+123455
+45300
+Service was sooooooo good.
+Julio Rodriguez
+Kaiser
+Fake Chocolate
+0
+26
+1946
+6
+50
+3
+0
+29
+1946
+10
+34
+26
+--PROVIDER--
+Providence
+111111113
+Stop It Now NE
+Hillsboro
+OR
+97124
+--SERVICE--
+111111113
+111111115
+123456
+42900
+This service was ridiculously good.
+Delane Jones
+Providence
+Heaps of Chocolate
+4
+23
+2003
+6
+53
+1
+4
+24
+2003
+0
+36
+43
+--SERVICE--
+111111113
+111111114
+123456
+42900
+Service was sooooooo good.
+Jackie
+Providence
+Heaps of Chocolate
+9
+24
+1946
+6
+50
+3
+10
+22
+1946
+10
+34
+26
+--PROVIDER--
+Sierra Club
+111111114
+Keep it Up
+Portland
+OR
+97432
+--SERVICE--
+111111114
+111111117
+123456
+42900
+This service was ridiculously good.
+Fei Xie
+Sierra Club
+Heaps of Chocolate
+4
+23
+2003
+6
+53
+1
+4
+24
+2003
+0
+36
+43
+--SERVICE--
+111111114
+111111116
+123456
+42900
+This service was ridiculously good.
+Jonathan Reels
+Sierra Club
+Heaps of Chocolate
+4
+23
+2003
+6
+53
+1
+4
+24
+2003
+0
+36
+43
